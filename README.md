@@ -1,6 +1,7 @@
 # COMP411Script
 
 > English Ver
+
 A Script used to auto-check COMP 411 Homework when done. 
 
 Automatically compiles all .c files to executable files, 
@@ -19,6 +20,7 @@ or `$ python main.py` depending on your Operation System.
 2. os
 * * *
 > 中文版本
+
 用于自动运行命令的脚本
 
 自动编译gcc并且自动diff。
