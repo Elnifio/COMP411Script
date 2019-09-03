@@ -37,3 +37,5 @@ or `$ python main.py` depending on your Operation System.
 2. os
 
 *编写共耗时2小时*
+
+*大概还有优化空间，只是没时间&不想继续优化了23333*
